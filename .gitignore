@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.~问题.docx
+
+# 原始数据集与标签(约 365MB)
+data/*
+!data/stats.json
+
+# 训练产物:只保留曲线图与指标记录,权重(.pt)不入库
+runs/*
+!runs/*.png
+!runs/*/
+runs/*/*
+!runs/*/*.png
+!runs/*/history.csv
+!runs/*/config.json
+!runs/*/summary.json

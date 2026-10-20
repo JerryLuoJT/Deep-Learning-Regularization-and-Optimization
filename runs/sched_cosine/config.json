@@ -1,0 +1,19 @@
+{
+  "name": "sched_cosine",
+  "seed": 0,
+  "data_root": "data",
+  "output_dir": "runs",
+  "device": "auto",
+  "num_workers": 4,
+  "amp": true,
+  "image_size": 100,
+  "pad_size": 12,
+  "flip_prob": 0.5,
+  "batch_size": 128,
+  "epochs": 300,
+  "lr": 0.05,
+  "momentum": 0.9,
+  "weight_decay": 0.0,
+  "lr_schedule": "cosine",
+  "mixup_alpha": 0.0
+}

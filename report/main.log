@@ -1,0 +1,233 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.1)  20 OCT 2026 17:02
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/Users/jerryluo/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/Users/jerryluo/Library/TinyTeX/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count196
+\c@section=\count197
+\c@subsection=\count198
+\c@subsubsection=\count199
+\c@paragraph=\count266
+\c@subparagraph=\count267
+\c@figure=\count268
+\c@table=\count269
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+) (./aaai24.sty
+Package: aaai24 2023/06/26 AAAI 2024 Submission format
+
+Conference Style for AAAI for LaTeX 2e -- version for submission
+\titlebox=\skip51
+) (/Users/jerryluo/Library/TinyTeX/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+) (/Users/jerryluo/Library/TinyTeX/texmf-dist/tex/latex/psnfss/helvet.sty
+Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
+ (/Users/jerryluo/Library/TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)) (/Users/jerryluo/Library/TinyTeX/texmf-dist/tex/latex/psnfss/courier.sty
+Package: courier 2020/03/25 PSNFSS-v9.3 (WaS) 
+) (/Users/jerryluo/Library/TinyTeX/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (/Users/jerryluo/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/Users/jerryluo/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (/Users/jerryluo/Library/TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (/Users/jerryluo/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (/Users/jerryluo/Library/TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
+) (/Users/jerryluo/Library/TinyTeX/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip52
+\bibsep=\skip53
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count270
+) (/Users/jerryluo/Library/TinyTeX/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (/Users/jerryluo/Library/TinyTeX/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen144
+\captionmargin=\dimen145
+\caption@leftmargin=\dimen146
+\caption@rightmargin=\dimen147
+\caption@width=\dimen148
+\caption@indent=\dimen149
+\caption@parindent=\dimen150
+\caption@hangindent=\dimen151
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count271
+\c@continuedfloat=\count272
+)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 32.
+ (/Users/jerryluo/Library/TinyTeX/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+) (/Users/jerryluo/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count273
+\l__pdf_internal_box=\box52
+) (./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+ (/Users/jerryluo/Library/TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/Users/jerryluo/Library/TinyTeX/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+\c@eqfn=\count274
+\titlearea=\box53
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 34.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 34.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 34.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 34.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 34.
+\actualheight=\skip54
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 34.
+ (/Users/jerryluo/Library/TinyTeX/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+Underfull \hbox (badness 1742) in paragraph at lines 37--49
+\OT1/ptm/m/n/9 ing rate schedul-ing, weight de-cay, and data mixup on
+ []
+
+
+Underfull \hbox (badness 1048) in paragraph at lines 52--69
+\OT1/ptm/m/n/10 Deep neu-ral net-works are gov-erned by two com-pet-ing
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 73.
+
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 97--111
+\OT1/ptm/m/n/10 dard de-vi-a-tion of chan-nel $\OML/cmm/m/it/10 c$ \OT1/ptm/m/n/10 es-ti-mated on the train-ing
+ []
+
+LaTeX Font Info:    Trying to load font information for OT1+lmtt on input line 115.
+(/Users/jerryluo/Library/TinyTeX/texmf-dist/tex/latex/lm/ot1lmtt.fd
+File: ot1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+
+[1{/Users/jerryluo/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/Users/jerryluo/Library/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}
+
+
+
+{/Users/jerryluo/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rmtt.enc}]
+<figures/lr_comparison.png, id=16, 867.24pt x 325.215pt>
+File: figures/lr_comparison.png Graphic file (type png)
+<use figures/lr_comparison.png>
+Package pdftex.def Info: figures/lr_comparison.png  used on input line 160.
+(pdftex.def)             Requested size: 239.39438pt x 89.76935pt.
+
+
+<figures/schedule_curves.png, id=18, 867.24pt x 325.215pt>
+File: figures/schedule_curves.png Graphic file (type png)
+<use figures/schedule_curves.png>
+Package pdftex.def Info: figures/schedule_curves.png  used on input line 219.
+(pdftex.def)             Requested size: 239.39438pt x 89.76935pt.
+<figures/schedule_lr.png, id=19, 433.62pt x 231.264pt>
+File: figures/schedule_lr.png Graphic file (type png)
+<use figures/schedule_lr.png>
+Package pdftex.def Info: figures/schedule_lr.png  used on input line 226.
+(pdftex.def)             Requested size: 239.39438pt x 127.67903pt.
+
+
+[2 <./figures/lr_comparison.png> <./figures/schedule_curves.png> <./figures/schedule_lr.png>]
+<figures/wd_comparison.png, id=29, 867.24pt x 325.215pt>
+File: figures/wd_comparison.png Graphic file (type png)
+<use figures/wd_comparison.png>
+Package pdftex.def Info: figures/wd_comparison.png  used on input line 292.
+(pdftex.def)             Requested size: 239.39438pt x 89.76935pt.
+
+
+<figures/beta_pdf.png, id=30, 433.62pt x 289.08pt>
+File: figures/beta_pdf.png Graphic file (type png)
+<use figures/beta_pdf.png>
+Package pdftex.def Info: figures/beta_pdf.png  used on input line 328.
+(pdftex.def)             Requested size: 148.42334pt x 98.94754pt.
+<figures/mixup_comparison.png, id=31, 867.24pt x 325.215pt>
+File: figures/mixup_comparison.png Graphic file (type png)
+<use figures/mixup_comparison.png>
+Package pdftex.def Info: figures/mixup_comparison.png  used on input line 364.
+(pdftex.def)             Requested size: 239.39438pt x 89.76935pt.
+
+Underfull \hbox (badness 1052) in paragraph at lines 369--383
+\OT1/ptm/m/n/10 eval-u-ated on the mixed im-ages and mixed la-bels, i.e.,
+ []
+
+
+
+[3 <./figures/wd_comparison.png> <./figures/beta_pdf.png>]
+Underfull \hbox (badness 5578) in paragraph at lines 429--431
+[]\OT1/ptm/m/n/10 PyTorch. 2024. torchvi-sion: EfficientNetV2-S. $https : / /
+ []
+
+
+
+
+
+[4
+
+ <./figures/mixup_comparison.png>] (./main.aux)
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 3137 strings out of 475171
+ 56161 string characters out of 5765334
+ 460735 words of memory out of 5000000
+ 26120 multiletter control sequences out of 15000+600000
+ 578785 words of font info for 73 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 57i,10n,65p,301b,348s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</Users/jerryluo/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Users/jerryluo/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></Users/jerryluo/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></Users/jerryluo/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></Users/jerryluo/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></Users/jerryluo/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></Users/jerryluo/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/jerryluo/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></Users/jerryluo/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></Users/jerryluo/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></Users/jerryluo/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Users/jerryluo/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></Users/jerryluo/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></Users/jerryluo/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></Users/jerryluo/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></Users/jerryluo/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt8.pfb></Users/jerryluo/Library/TinyTeX/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></Users/jerryluo/Library/TinyTeX/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></Users/jerryluo/Library/TinyTeX/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (4 pages, 803500 bytes).
+PDF statistics:
+ 127 PDF objects out of 1000 (max. 8388607)
+ 70 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+
